@@ -10,6 +10,7 @@
 
 ## What I learned
 
+B A C K E N D  
 🧩 Implemented an API. Learned about **idempotent HTTP methods** (GET, PUT, ~~DELETE~~) and that a well-designed server should be idempotent!
 
 🧩 Experienced with Relational Database (MySQL). Built relations between entities (Many-To-Many). Practiced lazy loading. Designed DTO object to solve **N+1 query problem** in ORM. Also I used Join Fetch to join 2 database tables (user & role) within the query and initialize the association on the returned entity. 
