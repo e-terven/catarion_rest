@@ -38,6 +38,11 @@
 #### User Panel
  - User's information
 
+#### Security Features
+ - loginSuccessHandler - for logistic of successful authentication
+ - passwordEncoder
+ - 
+
 ## Usage
 
 
