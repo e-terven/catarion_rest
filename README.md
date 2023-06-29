@@ -16,13 +16,15 @@
 
 🧩 Experienced with Relational Database (MySQL). Built relations between entities (Many-To-Many). Practiced lazy loading. Designed DTO object to solve **N+1 query problem** in ORM. Also I used Join Fetch to join 2 database tables (user & role) within the query and initialize the association on the returned entity. 
 
-🧩 Provided Authentication (**Spring Security**) and provided Admin Panel and User Panel.
-
-🧩 Designed the front end of the web app. Used HTML (page structure), CSS (style information), and JavaScript (behavior control of different elements). Additionally implemented jQuery (AJAX load() Method) and  Bootstrap (grid system) to simplify JavaScript coding. 
+🧩 Provided Authentication (**Spring Security**) and provided Admin Panel and User Panel. 
 
 🧩 Explored Jackson library for **JSON processing** in Java (convert POJO objects to / from JSON).
 
 🧩 Incorporated **Spring REST Client** - RestTemplate, as a primary tool for converting an object into a http-request and http-response into an object. Next project I plan to switch to an alternative HTTP client WebClient (that provides both synchronous and asynchronous approaches - no need to wait for http-response) as RestTemplate becomes depricated since Spring 5. In microservices - Feign Client (Spring Cloud).
+  
+#### FRONTEND
+  
+🧩 Designed the front end of the web app. Used HTML (page structure), CSS (style information), and JavaScript (behavior control of different elements). Additionally implemented jQuery (AJAX load() Method) and  Bootstrap (grid system) to simplify JavaScript coding.
 
 ## Screenshots 
 
