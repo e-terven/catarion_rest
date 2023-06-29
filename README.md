@@ -24,15 +24,19 @@
 
 ## Screenshots 
 
-DTO implementation in order to:
+#### DTO implementation in order to:
 - deliver only the rerqiered data (instead of transferring the complete object)
 - reflect what data is being transmitted
 - reduction of connectivity between parts of code (client - server / service - controller)
 
 
-Admin Panel 
+#### Admin Panel 
+ - CRUD methods
+ - Users List
+ - at url: http:/catarion/rest/admin/
 
-User Panel
+#### User Panel
+ - User's information
 
 ## Usage
 
