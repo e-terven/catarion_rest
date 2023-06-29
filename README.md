@@ -8,7 +8,8 @@
      Work with relattional db (MySQL)
      Provide Authentication (User and Admin roles)
 
-### ------ What I learned
+### What I learned
+------ 
 
 🧩 Implemented an API. Learned about **idempotent HTTP methods** (GET, PUT, ~~DELETE~~) and that a well-designed server should be idempotent!
 
