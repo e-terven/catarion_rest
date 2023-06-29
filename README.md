@@ -1,5 +1,5 @@
 # catarion_REST API 
-### is a web-accessible API
+#### is a web-accessible API
 
     The RESTful API defines:
      - endpoints specification (URL)
@@ -9,7 +9,6 @@
      Provide Authentication (User and Admin roles)
 
 ## What I learned
------- 
 
 🧩 Implemented an API. Learned about **idempotent HTTP methods** (GET, PUT, ~~DELETE~~) and that a well-designed server should be idempotent!
 
@@ -23,7 +22,7 @@
 
 🧩 Incorporated **Spring REST Client** - RestTemplate, as a primary tool for converting an object into a http-request and http-response into an object. Next project I plan to switch to an alternative HTTP client WebClient (that provides both synchronous and asynchronous approaches - no need to wait for http-response) as RestTemplate becomes depricated since Spring 5. In microservices - Feign Client (Spring Cloud).
 
-### Screenshots 
+## Screenshots 
 
 DTO implementation in order to:
 - deliver only the rerqiered data (instead of transferring the complete object)
