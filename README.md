@@ -1,5 +1,5 @@
-# catarion_REST API 
-#### is a web-accessible API
+# catarion_rest 
+### is a web-accessible API
 
     The RESTful API defines:
      - endpoints specification (URL)
@@ -34,7 +34,7 @@ Admin Panel
 
 User Panel
 
-### Usage
+## Usage
 
 
 
