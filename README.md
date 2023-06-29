@@ -24,7 +24,9 @@
   
 #### FRONTEND
   
-🧩 Designed the front end of the web app. Used HTML (page structure), CSS (style information), and JavaScript (behavior control of different elements). Additionally implemented jQuery (AJAX load() Method) and  Bootstrap (grid system) to simplify JavaScript coding.
+🧩 Designed the front end of the web app. Used HTML (page structure), CSS (style information)
+
+🧩 JavaScript (behavior control of different elements) adding jQuery (AJAX load() Method) and  Bootstrap (grid system) to simplify JavaScript coding.
 
 ## Screenshots 
 
