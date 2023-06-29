@@ -10,7 +10,7 @@
 
 ## What I learned
 
-####    _B A C K E N D _
+####    _B A C K E N D_
   
 🧩 Implemented an API. Learned about **idempotent HTTP methods** (GET, PUT, ~~DELETE~~) and that a well-designed server should be idempotent!
 
