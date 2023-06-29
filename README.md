@@ -1,7 +1,7 @@
 # catarion_REST API 
 ### is a web-accessible API
 
-    The REST API defines:
+    The RESTful API defines:
      - endpoints specification (URL)
      - HTTP methods (GET, POST, PUT, DELETE) that a client uses to interact with the server and perform operations on resources
      - data format (JSON)
