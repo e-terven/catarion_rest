@@ -5,7 +5,7 @@ The project is a RESTful API that supports CRUD operations (Create, Read, Update
      - endpoints specification (URL)
      - HTTP methods (GET, POST, PUT, DELETE) that a client uses to interact with the server and perform operations on resources
      - data format (JSON)
-     Work with relattional db (MySQL)
+     Work with relational db (MySQL)
      Provide Authentication (User and Admin roles)
 
 ## What I learned
