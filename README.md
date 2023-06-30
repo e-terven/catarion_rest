@@ -1,4 +1,5 @@
 # catarion_rest 
+### The project is a RESTful API that supports CRUD operations (Create, Read, Update, Delete) and includes authentication functionality for both users and administrators.
 
     The RESTful API defines:
      - endpoints specification (URL)
