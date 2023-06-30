@@ -1,5 +1,4 @@
 # catarion_rest 
-### is a web-accessible API
 
     The RESTful API defines:
      - endpoints specification (URL)
@@ -26,7 +25,7 @@
   
 🧩 Designed the front end of the web app. Used HTML (page structure), CSS (style information)
 
-🧩 JavaScript (behavior control of different elements) adding jQuery (AJAX load() Method) and  Bootstrap (grid system) to simplify JavaScript coding.
+🧩 JavaScript (behavior control of different elements) adding jQuery (load() Method) and  Bootstrap (grid system) to simplify JavaScript coding. Learned about asynchronous method that runs separately from the main thread
 
 ## Screenshots 
 
