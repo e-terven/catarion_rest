@@ -1,15 +1,14 @@
 # catarion_rest 
-The RESTful API can be used for managing data in customer relationship management systems. It exposes a set of endpoints that represents CRUD operations:
+The RESTful API can be used for managing data in customer relationship management systems. It includes authentication functionality for both Users and Admin Roles, and works with relational db (MySQL). The API also exposes a set of endpoints that represents CRUD operations:
 
-  C-reate User
+  **C**-reate User
   
-  R-ead the list of Users /Read a personal information about a User
+  **R**-ead the list of Users / Read a personal information about a User
   
-  U-pdate User's information
+  **U**-pdate User's information
   
-  D-elete User
+  **D**-elete User
   
-The API also includes authentication functionality for both Users and Admin Roles, and works with relational db (MySQL)
 
     The RESTful API defines:
      - 5 endpoints specification (URL)
