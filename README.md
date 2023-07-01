@@ -1,12 +1,15 @@
 # catarion_rest 
-The project is a RESTful API that supports CRUD operations (Create, Read, Update, Delete) and includes authentication functionality for both users and administrators.
+The RESTful API can be used for managing data in customer relationship management systems. It exposes a set of endpoints that represents CRUD operations:
+  C-reate User
+  R-ead the list of Users /Read a personal information about a User
+  U-pdate User's information
+  D-elete User
+The API also includes authentication functionality for both Users and Admin Roles, and works with relational db (MySQL)
 
     The RESTful API defines:
-     - endpoints specification (URL)
+     - 5 endpoints specification (URL)
      - HTTP methods (GET, POST, PUT, DELETE) that a client uses to interact with the server and perform operations on resources
      - data format (JSON)
-     Work with relational db (MySQL)
-     Provide Authentication (User and Admin roles)
 
 ## What I learned
 
