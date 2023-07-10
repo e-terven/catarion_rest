@@ -55,7 +55,5 @@ The RESTful API can be used for managing data in customer relationship managemen
  - passwordEncoder
    
 
-## Usage
-
 
 
